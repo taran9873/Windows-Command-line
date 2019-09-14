@@ -18,3 +18,25 @@ this will take us inside the languages folder of taran directory
 		type cd followed by first few keywords of folder/directory and hit "tab"
 		and you will get suggestions
 
+5.view content of a directory/folder
+	-move to that directory using cd 
+	-simply just type "dir" and hit enter
+	this will list all the contents present in that directory /folder
+what if we wanna see hidden files also !!!
+just write "dir /a" this will list all files including hidden files and system hidden files
+**caution: do not mess around with those hidden system files,that can be harmful for your system**
+
+6. we learnt and tried some commands ... isn't our screen messed up with lots of commands!!!
+lets clear our screen  type "cls" and hit enter
+
+7.what if we wanna see only a particular extension files in a directory/folder
+ eg : "dir *.jpg" 
+ this will list all the .jpg extension files in that directory/folder
+ similiarly we can write "dir *.exe" ,this will list all the .exe extension files present in that directory
+
+8. do u need to execute command you just executed before? or command previous than this one?
+  and lazy to write again? ugh... just use up and down arrow keys to go to previous command
+
+9. if we write name of a file in our directory or we give its path then ... that file will be opened in the default program
+
+

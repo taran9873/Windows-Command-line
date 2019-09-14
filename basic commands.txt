@@ -1,0 +1,20 @@
+*******     windows command prompt basic commands     *******
+
+# change directory 
+1.cd - change directory 
+eg: cd desktop
+
+2.how to go back to previous directory??
+ans : cd ..
+	how to go back more than one directory??
+		cd ../../..
+
+3. we can also give path of the location where we want to go to the "cd" command
+eg : cd taran/languages
+this will take us inside the languages folder of taran directory
+
+4. tired of typing whole path / whole file name !!!
+	here is the solution for you
+		type cd followed by first few keywords of folder/directory and hit "tab"
+		and you will get suggestions
+

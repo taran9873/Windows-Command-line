@@ -1,6 +1,6 @@
 *******     windows command prompt basic commands     *******
 
-# change directory 
+# change directory #
 1.cd - change directory 
 eg: cd desktop
 
@@ -17,7 +17,7 @@ this will take us inside the languages folder of taran directory
 	here is the solution for you
 		type cd followed by first few keywords of folder/directory and hit "tab"
 		and you will get suggestions
-
+# Directory content #
 5.view content of a directory/folder
 	-move to that directory using cd 
 	-simply just type "dir" and hit enter

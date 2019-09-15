@@ -1,6 +1,7 @@
 *******     windows command prompt basic commands     *******
 
 # change directory #
+
 1.cd - change directory 
 eg: cd desktop
 
@@ -17,7 +18,9 @@ this will take us inside the languages folder of taran directory
 	here is the solution for you
 		type cd followed by first few keywords of folder/directory and hit "tab"
 		and you will get suggestions
+
 # Directory content #
+
 5.view content of a directory/folder
 	-move to that directory using cd 
 	-simply just type "dir" and hit enter
@@ -38,5 +41,18 @@ lets clear our screen  type "cls" and hit enter
   and lazy to write again? ugh... just use up and down arrow keys to go to previous command
 
 9. if we write name of a file in our directory or we give its path then ... that file will be opened in the default program
+
+# help and info #
+
+* if you need help with any command you can write that command followed by "/?" 
+ eg : ipconfig /?
+ 
+# NETWORK COMMANDS #
+
+* ipconfig -> it shows your internet protocol configuration 
+* netstat -> it displays active TCP connections ,ports on which your pc is listening
+* tracert -> it is used to see a network packet being sent and received, as well as the number hops required for that packet to get to its destination
+* netsh wlan show profile name=labnol key=clear
+this lists information about the wifi you are connected to and also displays its password 
 
 

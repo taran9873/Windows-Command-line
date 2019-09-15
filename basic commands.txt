@@ -55,4 +55,4 @@ lets clear our screen  type "cls" and hit enter
 * netsh wlan show profile name=labnol key=clear
 this lists information about the wifi you are connected to and also displays its password 
 
-
+# CREATING AND DELETING DIRECTORIES/FOLDERS #

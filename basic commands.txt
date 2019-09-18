@@ -70,3 +70,19 @@ then how to delete folder that have something inside it !!!
 rmdir /s taran
 
 this will delete taran directory/folder and everything inside it as well
+
+###@@@$$$ this isn't any command,just kidding , lets continue
+
+
+user : hmm ...i wanna access a program , its irritating to always go to that folder and run that program !!! any solutions ?
+me :
+	go to that folder ,copy its path
+now,
+	go to "this pc" properties > advanced settings > enviornment variables > system variables> path > new >paste copied path and save all this
+	bit confused right???
+	i have a image showing u the correct way , look at that buddy 
+
+lets try to run firefox from any directory in cmd
+
+look at the image buddy
+

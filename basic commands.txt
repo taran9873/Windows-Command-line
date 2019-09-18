@@ -56,3 +56,17 @@ lets clear our screen  type "cls" and hit enter
 this lists information about the wifi you are connected to and also displays its password 
 
 # CREATING AND DELETING DIRECTORIES/FOLDERS #
+
+* making a folder/directory :   mkdir "folder name"
+eg : mkdir taran    -> this will make a new folder named taran in our current directory
+
+* removing a folder/directory : rmdir "folder/directory name"
+eg : rmdir taran  -> this will delete the taran folder
+
+note: rmdir can only delete empty folder/directories
+...
+then how to delete folder that have something inside it !!!
+
+rmdir /s taran
+
+this will delete taran directory/folder and everything inside it as well

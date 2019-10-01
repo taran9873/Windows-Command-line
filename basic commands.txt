@@ -86,3 +86,14 @@ lets try to run firefox from any directory in cmd
 
 look at the image buddy
 
+###
+why computer drives names start from c: and onwards?
+
+because in early days , A: and B: were reserved for floppy disks
+
+->list all drives on my pc
+command : wmic logicaldisk get name
+
+
+
+
